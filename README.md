@@ -1,0 +1,1 @@
+# solid_gate_test_task
